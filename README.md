@@ -12,7 +12,7 @@ It contains the six skills divided into two activities (front/back) required by 
 - Second : The Project file
 It is a question here of presenting in minimum 48750 characters one or more personal projects falling within the fields of the required skills.
 
--Third : The slides
+- Third : The slides
 This is a synthetic pdf file of the project file allowing the jury to present the work accomplished orally.
 
 Enjoy and good reanding ! 🚀
