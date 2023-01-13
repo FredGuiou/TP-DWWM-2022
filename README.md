@@ -15,4 +15,4 @@ It is a question here of presenting in minimum 48750 characters one or more pers
 - Third : The slides
 This is a synthetic pdf file of the project file allowing the jury to present the work accomplished orally.
 
-Enjoy and good reanding ! 🚀
+Enjoy and good reading ! 🚀
